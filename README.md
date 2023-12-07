@@ -1,4 +1,4 @@
-![Sushi](https://i.ibb.co/dBxww2c/Sushi.png)
+![Sushi](https://i.ibb.co/dBxww2c/Sushi-1.png)
 
 
 - Use CSS variables
